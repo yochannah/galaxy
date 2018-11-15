@@ -5,7 +5,7 @@
 <html>
 <head lang="en">
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1"/>
-    <title>Annotate image</title>
+    <title>Protein Features</title>
     ${h.javascript_link( app_root +  "js/protvista.js" )}
     ${h.javascript_link( app_root +  "index.js" )}
     ${h.stylesheet_link(app_root + 'css/main.css' )}

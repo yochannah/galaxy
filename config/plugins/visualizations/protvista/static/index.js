@@ -1,7 +1,8 @@
 var app = require("ProtVista");
+var theDiv = document.getElementById("protvista-galaxy-div");
 new app(
     {
-        el: yourDiv, text: 'biojs',
+        el: theDiv, text: 'protvista',
         //TODO POINT TO GALAXY FILE
         uniprotacc : 'P05067',
         customDataSource: {

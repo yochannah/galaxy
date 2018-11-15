@@ -12,7 +12,7 @@
 </head>
 <body>
     <div>
-        <div class="img-container"><img id='image-annotate' src="" /></div>
+        <div class="protvista-galaxy-div"></div>
     </div>
 </body>
 </html>
